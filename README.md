@@ -2,7 +2,7 @@
 
 An interactive, browser-based emulator of the Apollo 11 Guidance Computer — built directly from the original 1969 assembly source code in this repository.
 
-![Apollo AGC DSKY](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/DSKY_interface.jpg/320px-DSKY_interface.jpg)
+![Apollo AGC DSKY Simulator](docs/screenshot.png)
 
 ---
 
