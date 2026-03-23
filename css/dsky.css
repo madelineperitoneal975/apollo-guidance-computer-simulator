@@ -9,7 +9,7 @@
   --dsky-panel:     #2c2c2c;
   --dsky-border:    #555;
   --seg-off:        #040e10;
-  --seg-on:         #00e0c8;
+  --seg-on:         #49DA5D;
   --seg-green:      #00ff41;
   --seg-dim:        #082020;
   --light-off-bg:   #1e1e1e;
@@ -208,7 +208,7 @@ body {
   font-size: 1.8rem;
   font-weight: bold;
   color: var(--seg-on);
-  text-shadow: 0 0 10px rgba(0,224,200,0.8), 0 0 3px rgba(0,224,200,1);
+  text-shadow: 0 0 10px rgba(73,218,93,0.8), 0 0 3px rgba(73,218,93,1);
   letter-spacing: -2px;
 }
 
@@ -255,7 +255,7 @@ body {
   font-size: 1.7rem;
   font-weight: bold;
   color: var(--seg-on);
-  text-shadow: 0 0 10px rgba(0,224,200,0.6);
+  text-shadow: 0 0 10px rgba(73,218,93,0.6);
   flex-shrink: 0;
 }
 
@@ -269,7 +269,7 @@ body {
   font-size: 1.85rem;
   font-weight: bold;
   color: var(--seg-on);
-  text-shadow: 0 0 10px rgba(0,224,200,0.7), 0 0 3px rgba(0,224,200,1);
+  text-shadow: 0 0 10px rgba(73,218,93,0.7), 0 0 3px rgba(73,218,93,1);
 }
 
 .reg-digit:empty::before,
